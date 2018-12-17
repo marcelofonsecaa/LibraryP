@@ -1,0 +1,11 @@
+C:\Users\ma20044294\Documents\Visual Studio 2017\Library\MLibrary\MLibrary\obj\Debug\MLibrary.csprojAssemblyReference.cache
+C:\Users\ma20044294\Documents\Visual Studio 2017\Library\MLibrary\MLibrary\obj\Debug\MLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ma20044294\Documents\Visual Studio 2017\Library\MLibrary\MLibrary\bin\Debug\MLibrary.dll
+C:\Users\ma20044294\Documents\Visual Studio 2017\Library\MLibrary\MLibrary\bin\Debug\MLibrary.pdb
+C:\Users\ma20044294\Documents\Visual Studio 2017\Library\MLibrary\MLibrary\bin\Debug\WebDriver.dll
+C:\Users\ma20044294\Documents\Visual Studio 2017\Library\MLibrary\MLibrary\bin\Debug\WebDriver.Support.dll
+C:\Users\ma20044294\Documents\Visual Studio 2017\Library\MLibrary\MLibrary\bin\Debug\WebDriver.xml
+C:\Users\ma20044294\Documents\Visual Studio 2017\Library\MLibrary\MLibrary\bin\Debug\WebDriver.Support.xml
+C:\Users\ma20044294\Documents\Visual Studio 2017\Library\MLibrary\MLibrary\obj\Debug\MLibrary.csproj.CopyComplete
+C:\Users\ma20044294\Documents\Visual Studio 2017\Library\MLibrary\MLibrary\obj\Debug\MLibrary.dll
+C:\Users\ma20044294\Documents\Visual Studio 2017\Library\MLibrary\MLibrary\obj\Debug\MLibrary.pdb
